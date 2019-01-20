@@ -1,2 +1,2 @@
-# .html template with js/css features
-First steps in front-end 2017
+# .html template with js/css feature
+frontend template 2017
